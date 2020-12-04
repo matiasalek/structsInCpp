@@ -1,2 +1,4 @@
-# structsInCpp
-really easy concept about structs in cpp 
+Structs in C++
+
+
+This is really an easy concept about structs in C++, specifically a reminder of my old university C++ lessons.
